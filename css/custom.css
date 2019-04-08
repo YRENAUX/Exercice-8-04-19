@@ -104,8 +104,27 @@ ul li{
   width: 100%;
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  padding-top: 15px;
 }
 .involved1{
   font-size: 100px;
-  margin-left: 55px;
+  padding: 50px;
+}
+.involved2{
+  font-size: 100px;
+  padding:50px;
+
+}
+.involved3{
+  font-size: 100px;
+  padding: 50px;
+}
+footer{
+  background-color: #F84E4E;
+  height: 200px;
+}
+footer>img{
+  padding-top:100px;
+  padding-left: 250px;
 }
